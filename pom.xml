@@ -57,8 +57,7 @@
 					<configuration>
 						<warSourceDirectory>src/main/webapp</warSourceDirectory>
 						<warName>helloworld</warName>
-
-						<failOnMissingWebXml>false</failOnMissingWebXml>
+					<failOnMissingWebXml>false</failOnMissingWebXml>
 					</configuration>
 				</plugin>
 			</plugins>
